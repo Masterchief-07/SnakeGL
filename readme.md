@@ -1,6 +1,6 @@
-##SNAKEGL
+## SNAKEGL
 
 snake game using openGL
 
-#reason
+# reason
 just for FUN!!!
