@@ -29,6 +29,11 @@ class ISnake
     virtual Direction       getDirection() const = 0;
 };
 
+class IDraw
+{
+
+};
+
 class IDisplay
 {
     public:
